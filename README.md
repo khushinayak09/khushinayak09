@@ -1,6 +1,6 @@
 ![HELLO WORLD!](https://user-images.githubusercontent.com/107036687/173592346-30515149-7a5b-4ed4-8d64-e4dea837c1d7.gif)
 <p align="center">
-<b>नमस्ते (Namaste)</b>
+<h3 align ="center"><b>🙏नमस्ते (Namaste)</b></h3>
 
 </p>
 <hr>
