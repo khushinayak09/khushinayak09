@@ -4,7 +4,7 @@
 
 </p>
 <hr>
-👋 HELLO, I'm Computer Science Student<br> 
+👋 <b>HELLO</b>, I'm Computer Science Student<br> 
 👀 Interested in Exploring New Things! <br>
 🌱 Currently Working on my DSA ,Problem Sloving Skills and Python .<br>
 📫 How to reach me: khushinayak0289@gmail.com<br>
