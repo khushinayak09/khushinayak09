@@ -1,4 +1,4 @@
-![HELLO WORLD!](https://user-images.githubusercontent.com/107036687/173592346-30515149-7a5b-4ed4-8d64-e4dea837c1d7.gif)
+![HELLO WORLD!](https://user-images.githubusercontent.com/107036687/178722466-0f543396-d96b-4744-a87f-f5789740d03e.gif)
 <p align="center">
 <h3 align ="center"><b>🙏नमस्ते (Namaste)</b></h3>
 
