@@ -7,6 +7,6 @@
 👋 <b>HELLO</b>, I'm Computer Science Student<br> 
 👀 Interested in Exploring New Things! <br>
 🌱 Currently Working on my DSA ,Problem Sloving Skills and Python .<br>
-📫 How to reach me: khushinayak0289@gmail.com<br>
-😄 Pronouns: She/Her/Bro<br>
-⚡ Fun fact: I am too lazy to think of one. (Will update some fun stuff later!)
+📫 How to reach me: khushinayak0289@gmail.com <br>
+👩‍💻 Pronouns: She/Her/Bro<br>
+🐢 Fun fact: I am too lazy to think of one. (Will update some fun stuff later!)
