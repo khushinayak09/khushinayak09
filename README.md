@@ -4,7 +4,7 @@
 
 </p>
 <hr>
-👋 I'm Computer Science Student<br> 
+👋 I'm <b>INFORMATION TECNOLOGY(IT)</b> Student<br> 
 👀 Interested in Exploring New Things! <br>
 🌱 Currently Working on my DSA ,Problem Sloving Skills and Python .<br>
 📫 How to reach me: khushinayak0289@gmail.com <br>
