@@ -7,7 +7,7 @@
 <hr>
 👋 I'm <b>INFORMATION TECNOLOGY(IT)</b> Student<br> 
 👀 Interested in Exploring New Things! <br>
-🌱 Currently Working on my DSA ,Problem Sloving Skills and Python .<br>
+🌱 Currently Working on my DSA, Problem-Solving Skills, and Python .<br>
 📫 How to reach me: khushinayak0289@gmail.com <br>
 👩‍💻 Pronouns: She/Her/Bro<br>
-🐢 Will update some fun stuff later!
+🐢 I will update some fun stuff later!
